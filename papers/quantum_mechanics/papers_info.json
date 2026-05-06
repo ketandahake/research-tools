@@ -1,0 +1,58 @@
+{
+  "0705.3203v1": {
+    "title": "Recent experiments performed at \"Carlo Novero\" lab at INRIM on Quantum Information and Foundations of Quantum Mechanics",
+    "authors": [
+      "G. Brida",
+      "N. Antonietti",
+      "M. Gramegna",
+      "L. Krivitsky",
+      "F. Piacentini",
+      "M. L. Rastello",
+      "I. Ruo Berchera",
+      "P. Traina",
+      "M. Genovese"
+    ],
+    "summary": "In this paper we present some recent work performed at \"Carlo Novero\" lab on Quantum Information and Foundations of Quantum Mechanics.",
+    "pdf_url": "https://arxiv.org/pdf/0705.3203v1",
+    "published": "2007-05-22"
+  },
+  "2512.10504v2": {
+    "title": "Tianyan: Cloud services with quantum advantage",
+    "authors": [
+      "Tianyan Quantum Group"
+    ],
+    "summary": "Tianyan Quantum Cloud Platform offers cloud services demonstrating quantum advantage capabilities with a Zuchongzhi 3.0-like superconducting quantum processor. This cloud-accessible superconducting quantum prototype, named Tianyan-287, features 105 qubits and achieves high operational fidelities, with single-qubit gates, two-qubit gates, and readout fidelity at 99.90%, 99.56%, 98.7%, respectively. For a specific benchmark task involving random circuit sampling on a 74-qubit system over 24 cycles, the platform completes one million samples in just 18.4 minutes. In contrast, state-of-the-art classical supercomputers would require approximately 16,000 years to complete the equivalent calculation. To facilitate this, the platform provides access via Cqlib, an open-source SDK designed for working with quantum systems at the level of extended quantum circuits, operators, and primitives. The cloud service aims to democratize access to high-performance quantum hardware, enabling the community to validate and explore practical quantum advantages.",
+    "pdf_url": "https://arxiv.org/pdf/2512.10504v2",
+    "published": "2025-12-11"
+  },
+  "2412.05997v3": {
+    "title": "Doubly Quantum Mechanics",
+    "authors": [
+      "Vittorio D'Esposito",
+      "Giuseppe Fabiano",
+      "Domenico Frattulillo",
+      "Flavio Mercati"
+    ],
+    "summary": "Motivated by the expectation that relativistic symmetries might acquire quantum features in Quantum Gravity, we take the first steps towards a theory of ''Doubly'' Quantum Mechanics, a modification of Quantum Mechanics in which the geometrical configurations of physical systems, measurement apparata, and reference frame transformations are themselves quantized and described by ''geometry'' states in a Hilbert space. We develop the formalism for spin-$\\frac{1}{2}$ measurements by promoting the group of spatial rotations $SU(2)$ to the quantum group $SU_q(2)$ and generalizing the axioms of Quantum Theory in a covariant way. As a consequence of our axioms, the notion of probability becomes a self-adjoint operator acting on the Hilbert space of geometry states, hence acquiring novel non-classical features. After introducing a suitable class of semi-classical geometry states, which describe near-to-classical geometrical configurations of physical systems, we find that probability measurements are affected, in these configurations, by intrinsic uncertainties stemming from the quantum properties of $SU_q(2)$. This feature translates into an unavoidable fuzziness for observers attempting to align their reference frames by exchanging qubits, even when the number of exchanged qubits approaches infinity, contrary to the standard $SU(2)$ case.",
+    "pdf_url": "https://arxiv.org/pdf/2412.05997v3",
+    "published": "2024-12-08"
+  },
+  "quant-ph/0608120v1": {
+    "title": "Ontological Models for Quantum Mechanics and the Kochen-Specker theorem",
+    "authors": [
+      "Terry Rudolph"
+    ],
+    "summary": "Certain concrete \"ontological models\" for quantum mechanics (models in which measurement outcomes are deterministic and quantum states are equivalent to classical probability distributions over some space of `hidden variables') are examined. The models are generalizations of Kochen and Specker's such model for a single 2-dimensional system - in particular a model for a three dimensional quantum system is considered in detail. Unfortunately, it appears the models do not quite reproduce the quantum mechanical statistics. They do, however, come close to doing so, and in as much as they simply involve probability distributions over the complex projective space they do reproduce pretty much everything else in quantum mechanics.\n  The Kochen-Specker theorem is examined in the light of these models, and the rather mild nature of the manifested contextuality is discussed.",
+    "pdf_url": "https://arxiv.org/pdf/quant-ph/0608120v1",
+    "published": "2006-08-15"
+  },
+  "2510.20049v3": {
+    "title": "Photon Quantum Mechanics",
+    "authors": [
+      "Margaret Hawton"
+    ],
+    "summary": "We second quantize the Fermi Lagrangian in the Lorenz gauge to obtain a covariant theory of photon quantum mechanics. Number density is real so it is interpreted as position probability density. The Hilbert space is the vector space of fields with norm 1 describing physical photons and the Poincare operators are extended to include position to represent observables. A photon continuity equation is derived that describes creation, propagation and annihilation of photons in an optical circuit. The relationship to orthodox quantum mechanics is discussed.",
+    "pdf_url": "https://arxiv.org/pdf/2510.20049v3",
+    "published": "2025-10-22"
+  }
+}
